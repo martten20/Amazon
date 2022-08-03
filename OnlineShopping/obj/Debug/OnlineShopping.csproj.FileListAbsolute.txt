@@ -1,0 +1,15 @@
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\bin\Debug\OnlineShopping.exe.config
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\bin\Debug\OnlineShopping.exe
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\bin\Debug\OnlineShopping.pdb
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.csproj.AssemblyReference.cache
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.Properties.Resources.resources
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.exe
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.pdb
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.Admin_form.resources
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.LoginForm.resources
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.MainForm.resources
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.CustomerFun.resources
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.form2.resources
+C:\Users\Mhmed\source\repos\SDAProject\OnlineShopping\obj\Debug\OnlineShopping.Form1.resources
